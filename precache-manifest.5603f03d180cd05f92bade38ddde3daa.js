@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98a898c1ab59d3ddb7c80fb529f9f6d1",
+    "revision": "048e2008d41aa695b6b60df8c5b1c8e2",
     "url": "/webmotors-front/index.html"
   },
   {
-    "revision": "bf898ca0abf822adf3f8",
+    "revision": "3545793b81257c24d4f6",
     "url": "/webmotors-front/static/css/main.ed0933c9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webmotors-front/static/js/2.6d2a7c01.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf898ca0abf822adf3f8",
-    "url": "/webmotors-front/static/js/main.baa47173.chunk.js"
+    "revision": "3545793b81257c24d4f6",
+    "url": "/webmotors-front/static/js/main.a5938115.chunk.js"
   },
   {
     "revision": "194aeb6dd9fe0629bb8f",
