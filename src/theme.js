@@ -13,8 +13,8 @@ const theme = {
     large: "3em"
   },
   widths: {
-    small: "576px",
-    medium: "768px",
+    small: "700px",
+    medium: "840px",
     extraLarge: "933px"
   }
 };

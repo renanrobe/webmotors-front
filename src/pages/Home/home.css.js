@@ -30,15 +30,16 @@ export const Container = styled.div`
           color: ${ theme.colors.grayDark };
         }
       `;
-    export const SellCar = styled.div`
-      a {
-        border: 2px solid ${ theme.colors.yellow };
-        border-radius: 3px;
-        color: ${ theme.colors.yellow };
-        font-size: 14px;
-        padding: 5px 20px;
-        text-decoration: none;
-      }
+    export const SellCar = styled.button`
+      border: 2px solid ${ theme.colors.yellow };
+      border-radius: 3px;
+      color: ${ theme.colors.yellow };
+      cursor: pointer;
+      font-size: 14px;
+      height: 32px;
+      outline: none;
+      padding: 5px 20px;
+      text-decoration: none;
     `;
 
   export const ContentTab = styled.div`
@@ -69,6 +70,11 @@ export const Container = styled.div`
       display: flex;
       margin-top: 20px;
 
+      @media(max-width: ${theme.widths.medium}) {
+        display: block;
+        width: 100%;
+      }
+
       select, input {
         border: 1px solid ${ theme.colors.grayDark };
         border-radius: 3px;
@@ -84,10 +90,19 @@ export const Container = styled.div`
         justify-content: space-between;
         width: 50%;
 
+        @media(max-width: ${theme.widths.medium}) {
+          margin: 10px 0;
+          width: 100%;
+        }
+
         input {
+          border-radius: 3px 0 0 3px;
+          border-right: 0;
+          height: 17px;
           width: 70%;
 
           + select {
+            border-radius: 0 3px 3px 0;
             width: 30%;
           }
         }
@@ -95,6 +110,11 @@ export const Container = styled.div`
       export const BoxM = styled.div`
         width: 25%;
         padding: 0 10px;
+
+        @media(max-width: ${theme.widths.medium}) {
+          margin: 10px 0;
+          width: 100%;
+        }
       `;
       export const AdvancedSearch = styled.span`
         color: ${ theme.colors.red };
@@ -107,6 +127,10 @@ export const Container = styled.div`
         cursor: pointer;
         font-size: 14px;
         margin-right: 15px;
+
+        @media(max-width: ${theme.widths.small}) {
+         font-size: 12px;
+        }
       `;
       export const BtnOffers = styled.button`
         background-color: ${ theme.colors.red };
