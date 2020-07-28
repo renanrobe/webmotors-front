@@ -2,9 +2,6 @@ Teste de Front-end
 ==============
 Esse projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
 
-### Demonstração
-https://renanrobe.github.io/webmotors-front/
-
 ### Instalação
 
 1. Faça o clone deste projeto com `https://github.com/renanrobe/webmotors-front.git`
