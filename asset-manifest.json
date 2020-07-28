@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/webmotors-front/static/css/main.ed0933c9.chunk.css",
-    "main.js": "/webmotors-front/static/js/main.54491606.chunk.js",
-    "main.js.map": "/webmotors-front/static/js/main.54491606.chunk.js.map",
+    "main.js": "/webmotors-front/static/js/main.baa47173.chunk.js",
+    "main.js.map": "/webmotors-front/static/js/main.baa47173.chunk.js.map",
     "runtime-main.js": "/webmotors-front/static/js/runtime-main.4be34b6a.js",
     "runtime-main.js.map": "/webmotors-front/static/js/runtime-main.4be34b6a.js.map",
     "static/js/2.6d2a7c01.chunk.js": "/webmotors-front/static/js/2.6d2a7c01.chunk.js",
     "static/js/2.6d2a7c01.chunk.js.map": "/webmotors-front/static/js/2.6d2a7c01.chunk.js.map",
     "index.html": "/webmotors-front/index.html",
-    "precache-manifest.3033d4fa9e5f2f0dc47ce3e9329cd99a.js": "/webmotors-front/precache-manifest.3033d4fa9e5f2f0dc47ce3e9329cd99a.js",
+    "precache-manifest.eba969af11766866ddf87350a4f87ceb.js": "/webmotors-front/precache-manifest.eba969af11766866ddf87350a4f87ceb.js",
     "service-worker.js": "/webmotors-front/service-worker.js",
     "static/css/main.ed0933c9.chunk.css.map": "/webmotors-front/static/css/main.ed0933c9.chunk.css.map",
     "static/js/2.6d2a7c01.chunk.js.LICENSE.txt": "/webmotors-front/static/js/2.6d2a7c01.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4be34b6a.js",
     "static/js/2.6d2a7c01.chunk.js",
     "static/css/main.ed0933c9.chunk.css",
-    "static/js/main.54491606.chunk.js"
+    "static/js/main.baa47173.chunk.js"
   ]
 }
