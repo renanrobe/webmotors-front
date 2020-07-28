@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webmotors-front/static/css/main.ed0933c9.chunk.css",
+    "main.js": "/webmotors-front/static/js/main.56f3a1bf.chunk.js",
+    "main.js.map": "/webmotors-front/static/js/main.56f3a1bf.chunk.js.map",
+    "runtime-main.js": "/webmotors-front/static/js/runtime-main.4be34b6a.js",
+    "runtime-main.js.map": "/webmotors-front/static/js/runtime-main.4be34b6a.js.map",
+    "static/js/2.6d2a7c01.chunk.js": "/webmotors-front/static/js/2.6d2a7c01.chunk.js",
+    "static/js/2.6d2a7c01.chunk.js.map": "/webmotors-front/static/js/2.6d2a7c01.chunk.js.map",
+    "index.html": "/webmotors-front/index.html",
+    "precache-manifest.92c48b6f3c3aaf33cbed7ffa118480a9.js": "/webmotors-front/precache-manifest.92c48b6f3c3aaf33cbed7ffa118480a9.js",
+    "service-worker.js": "/webmotors-front/service-worker.js",
+    "static/css/main.ed0933c9.chunk.css.map": "/webmotors-front/static/css/main.ed0933c9.chunk.css.map",
+    "static/js/2.6d2a7c01.chunk.js.LICENSE.txt": "/webmotors-front/static/js/2.6d2a7c01.chunk.js.LICENSE.txt",
+    "static/media/logo.ef770bc7.svg": "/webmotors-front/static/media/logo.ef770bc7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4be34b6a.js",
+    "static/js/2.6d2a7c01.chunk.js",
+    "static/css/main.ed0933c9.chunk.css",
+    "static/js/main.56f3a1bf.chunk.js"
+  ]
+}
